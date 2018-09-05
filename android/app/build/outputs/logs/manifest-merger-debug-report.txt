@@ -4,6 +4,7 @@ ADDED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/ap
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6a2922fc5142556cd6506668be7cddf7/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/174de920dab13efae2201b0d38bacb1a/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:23.0.1] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/5498168d3f922da94a365d3f0a174acb/AndroidManifest.xml:17:1-24:12
@@ -93,6 +94,8 @@ uses-sdk
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6a2922fc5142556cd6506668be7cddf7/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/6a2922fc5142556cd6506668be7cddf7/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/omgsailorjerry/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/174de920dab13efae2201b0d38bacb1a/AndroidManifest.xml:20:5-43

@@ -51,7 +51,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		07Af2MmUEnjTvWBR9rqM7HbifLM=
+		KN8Ss0vjf7+Bo2GcsIMNJiDFQbs=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		mRu3+slwnNWNo3kBdw79RwPFQu0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,7 +67,7 @@
 		</data>
 		<key>PlugIns/rncourseTests.xctest.dSYM/Contents/Resources/DWARF/rncourseTests</key>
 		<data>
-		knGqyHj9yDkL6WlNil95PJlw3Pw=
+		MLYOV71Fob1SEPgin0/EXju5rfA=
 		</data>
 		<key>PlugIns/rncourseTests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +79,7 @@
 		</data>
 		<key>PlugIns/rncourseTests.xctest/rncourseTests</key>
 		<data>
-		9qsxudUpRhi9CJn5Y3KimHNQtdA=
+		o4vSAxbaPd/Oln+3akhzEaSv3/Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -192,6 +196,17 @@
 			2hnwNPgdaewT28DbTqe0Gpaccdc2akBF8IjnGtISc58=
 			</data>
 		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mRu3+slwnNWNo3kBdw79RwPFQu0=
+			</data>
+			<key>hash2</key>
+			<data>
+			INFzvLYFHQlzvgymqi+08npbKQ2AEGyyxWfI/cdyxxE=
+			</data>
+		</dict>
 		<key>PlugIns/rncourseTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -207,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			knGqyHj9yDkL6WlNil95PJlw3Pw=
+			MLYOV71Fob1SEPgin0/EXju5rfA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XGfAi67RQi5IXSevC/Zg472bDkrtCNAfNooClBuP/Qk=
+			svpJUzOiVlI7JPLO2gasxGj7NNxB+EhtS6Sc8KQthIY=
 			</data>
 		</dict>
 		<key>PlugIns/rncourseTests.xctest/Info.plist</key>
@@ -240,11 +255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9qsxudUpRhi9CJn5Y3KimHNQtdA=
+			o4vSAxbaPd/Oln+3akhzEaSv3/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			WSZIM7/HJsApT4GC+nS8x1LcvyMGCjB1VoSpj46gF1I=
+			WNRgIR5pHlwecfqy5mMI/SzleyIabzgaOBliSlWCfeM=
 			</data>
 		</dict>
 	</dict>
