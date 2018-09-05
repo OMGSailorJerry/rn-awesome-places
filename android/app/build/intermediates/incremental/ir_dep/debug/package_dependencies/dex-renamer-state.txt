@@ -1,4 +1,4 @@
-#Tue Sep 04 12:05:26 EEST 2018
-base.0=/Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/29
+#Wed Sep 05 15:48:26 EEST 2018
+base.0=/Users/omgsailorjerry/Learning/udemy/ReactNative/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/67
 path.0=classes.dex
 renamed.0=classes.dex
